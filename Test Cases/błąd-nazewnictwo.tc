@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>błąd wykazuje nazwe zmiennej zamiast tekstu.</description>
-   <name>błąd-nazewnictwo</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>16ab3f2c-b51c-4d3d-a01c-0b22c7e88c62</testCaseGuid>
-</TestCaseEntity>
